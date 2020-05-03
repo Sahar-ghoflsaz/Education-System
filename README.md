@@ -1,2 +1,2 @@
-# Smart-light
-USING PIR, ESP8266 and STM32F0
+# Education-System
+USING Java
